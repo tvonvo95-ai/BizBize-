@@ -1,0 +1,9 @@
+{
+  "name": "BizBize ❤️",
+  "description": "Türkiye'nin modern, hızlı, renkli ve güvenli mesajlaşma ve sosyal iletişim uygulaması.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
