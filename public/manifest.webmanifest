@@ -1,0 +1,20 @@
+{
+  "name": "BizBize ❤️ – Mesajlaşma ve Sosyal İletişim",
+  "short_name": "BizBize ❤️",
+  "description": "Türkiye'nin modern, hızlı, renkli ve güvenli mesajlaşma ve sosyal iletişim uygulaması.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#e11d48",
+  "orientation": "portrait",
+  "categories": ["social", "communication"],
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
